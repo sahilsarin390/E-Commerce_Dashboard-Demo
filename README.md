@@ -9,3 +9,5 @@ Demo Coming Soon!!
 Initial Idea:
 
 A minimal E-Commerce Dashboard for Admins/Sellers to track and manage their business.
+
+![image](https://raw.githubusercontent.com/sahilsarin390/FOODsta/main/UI/Sign%20Up%20Page.png)
