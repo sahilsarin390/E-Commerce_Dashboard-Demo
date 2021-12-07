@@ -10,4 +10,4 @@ Initial Idea:
 
 A minimal E-Commerce Dashboard for Admins/Sellers to track and manage their business.
 
-![image](https://raw.githubusercontent.com/sahilsarin390/FOODsta/main/UI/Sign%20Up%20Page.png)
+![image](https://raw.githubusercontent.com/sahilsarin390/E-Commerce_Dashboard-Demo/main/MacBook%20Pro%20-%201.png)
